@@ -7,5 +7,5 @@ Notes:
 4. Isi folder "SQL_code" itu coret-coretan selama saya buat aplikasi-nya
 5. Fitur Autentikasi/Login bisa diliat di folder "conf"
 6. Temen-temen bebas pakai sorce code nya walau dah jadi Hak Cipta (Hak Cipta cuma untuk keperluan Publikasi Skripsi kok hehe)
-7. Manual Book bisa buat refrensi gimana cara make, konfigurasi, dll. 
-8. Pokoknyaa lengkappp semuaa di manuall book... gazzzz
+7. Manual Book bisa buat refrensi gimana cara make, konfigurasi, dll
+8. Pokoknyaa lengkappp semuaa di Manualll Bookk... gazzzz
