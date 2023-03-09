@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# Sistem-Informasi-Kepesertaan-Dana-Pensiun
 Halooo.. ini project bikin Aplikasi Web pertama yang saya open public hehe.. walau pake bantuan bootsrap template AdminLTE.io gapapa laa yaa opensource juga hehe
 
 Notes:
@@ -11,6 +9,3 @@ Notes:
 6. Temen-temen bebas pakai sorce code nya walau dah jadi Hak Cipta (Hak Cipta cuma untuk keperluan Publikasi Skripsi kok hehe)
 7. Manual Book bisa buat refrensi gimana cara make, konfigurasi, dll. 
 8. Pokoknyaa lengkappp semuaa di manuall book... gazzzz
-=======
-# Repository-Baru
->>>>>>> 65bf6e0 (first commit)
