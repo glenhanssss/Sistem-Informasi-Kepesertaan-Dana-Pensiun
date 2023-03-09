@@ -1,0 +1,10 @@
+Sisipkan script dibawai ini sebelum konten yang akan diexport
+
+<?php
+
+header("Content-type: application/vnd-ms-excel");
+header("Content-Disposition: attachment; filename=laporan-excel.xls"); 
+
+?>
+
+
