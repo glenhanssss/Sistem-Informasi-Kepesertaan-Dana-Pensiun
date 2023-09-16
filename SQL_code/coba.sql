@@ -68,19 +68,19 @@ CREATE TABLE `users` (
 
 -------------------------------------------
 INSERT INTO `peserta`   (`nip`,     `nama`,       `unit_kerja`, `gender`, `status_kawin`, `tanggungan_anak`, `tanggal_lahir`, `tanggal_peserta`, `tanggal_pensiun`)
-  VALUES    ('662019002',   'VINSENSIUS ERIC',  'FSM',      'Pria',   'Kawin',    '2',        '2001-03-09', '2020-10-01', '2069-10-01'),
-            ('662019003',   'ALFIDA TEGAR',   'FKIP',     'Wanita', 'Tidak Kawin',  '0',        '2005-12-14', '2020-08-01', '2069-10-01'),
-            ('662019005',   'WIRA SETYAWAN',  'FEB',      'Pria',   'Kawin',    '0',        '1995-11-06', '2022-03-03', '2069-10-01'),
-            ('662019008',   'BENITA DWITYA',  'FSM',      'Wanita', 'Kawin',    '2',        '1980-12-15', '2015-01-01', '2069-10-01'),
-            ('662019009',   'DAVID YOGA',   'FKIP',     'Pria',   'Tidak Kawin',  '2',        '1995-06-10', '2010-09-01', '2069-10-01'),
-            ('662019010',   'NUR INTAN',    'FSM',      'Wanita', 'Kawin',    '1',        '2000-04-15', '2015-12-01', '2069-10-01'),
-            ('662019011',   'FEBIANE ALDITA', 'FEB',      'Wanita', 'Tidak Kawin',  '2',        '1980-12-28', '2001-08-01', '2069-10-01'),
-            ('662019012',   'YUMITA CHRISTIN',  'FSM',      'Wanita',   'Tidak Kawin',  '1',        '1975-12-04',   '1990-11-01', '2069-10-01'),
-            ('662019013',   'PUTRI ELIZABETH',  'FKIP',     'WANITA', 'Kawin',    '1',        '2001-03-09', '2022-10-01', '2069-10-01'),
-            ('662019014',   'SHEILA ALFATIHA',  'FSM',      'Wanita', 'Tidak Kawin',  '1',        '1980-08-08', '2003-08-01', '2069-10-01'),
-            ('662019015',   'FEBI SETIVANI',  'FKIP',      'Wanita', 'Tidak Kawin',  '2',        '1988-10-08', '2015-11-01', '2069-10-01'),
-            ('662019016',   'AGNES DHIKA',  'FTI',      'Wanita', 'Kawin',  '1',        '1980-10-08', '2001-01-01', '2069-10-01'),
-            ('662019018',   'LUTFI SIVANA',  'FSM',      'Wanita', 'Tidak Kawin',  '0',        '2005-10-08', '2018-12-01', '2069-10-01'),
+  VALUES    ('662019002',   'VINSENSIUS ERIC',  'FSM',      'Pria',   'Kawin',    '2',        '2001-03-09', '2020-10-01', '2029-10-01'),
+            ('662019003',   'ALFIDA TEGAR',   'FKIP',     'Wanita', 'Tidak Kawin',  '0',        '2005-12-14', '2020-08-01', '2029-10-01'),
+            ('662019005',   'WIRA SETYAWAN',  'FEB',      'Pria',   'Kawin',    '0',        '1995-11-06', '2022-03-03', '2029-10-01'),
+            ('662019008',   'BENITA DWITYA',  'FSM',      'Wanita', 'Kawin',    '2',        '1980-12-15', '2015-01-01', '2029-10-01'),
+            ('662019009',   'DAVID YOGA',   'FKIP',     'Pria',   'Tidak Kawin',  '2',        '1995-06-10', '2010-09-01', '2029-10-01'),
+            ('662019010',   'NUR INTAN',    'FSM',      'Wanita', 'Kawin',    '1',        '2000-04-15', '2015-12-01', '2029-10-01'),
+            ('662019011',   'FEBIANE ALDITA', 'FEB',      'Wanita', 'Tidak Kawin',  '2',        '1980-12-28', '2001-08-01', '2029-10-01'),
+            ('662019012',   'YUMITA CHRISTIN',  'FSM',      'Wanita',   'Tidak Kawin',  '1',        '1975-12-04',   '1990-11-01', '2029-10-01'),
+            ('662019013',   'PUTRI ELIZABETH',  'FKIP',     'WANITA', 'Kawin',    '1',        '2001-03-09', '2022-10-01', '2029-10-01'),
+            ('662019014',   'SHEILA ALFATIHA',  'FSM',      'Wanita', 'Tidak Kawin',  '1',        '1980-08-08', '2003-08-01', '2029-10-01'),
+            ('662019015',   'FEBI SETIVANI',  'FKIP',      'Wanita', 'Tidak Kawin',  '2',        '1988-10-08', '2015-11-01', '2029-10-01'),
+            ('662019016',   'AGNES DHIKA',  'FTI',      'Wanita', 'Kawin',  '1',        '1980-10-08', '2001-01-01', '2029-10-01'),
+            ('662019018',   'LUTFI SIVANA',  'FSM',      'Wanita', 'Tidak Kawin',  '0',        '2005-10-08', '2018-12-01', '2029-10-01'),
 
 INSERT INTO `phdp` (`nip`, `nominal_phdp`) 
 VALUES  ('662019002', '4000000.00'), 
