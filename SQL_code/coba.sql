@@ -97,7 +97,8 @@ VALUES  ('662019002', '4000000.00'),
 
 INSERT INTO `users` (`id`, `nama`, `username`, `password`, `level`) 
 VALUES    (NULL, 'glenhans', 'admin', '12345', 'superadmin'), 
-          (NULL, 'glenhans', 'op1', '12345', 'operator')
+          (NULL, 'glenhans', 'op1', '12345', 'operator'),
+          (NULL, 'Guest', 'guest', 'guest', 'operator'),
 -------------------------------------------
 
 
