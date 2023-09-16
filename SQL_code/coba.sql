@@ -94,6 +94,10 @@ VALUES  ('662019002', '4000000.00'),
         ('662019013', '3850578.45'),
         ('662019014', '6700000.53'),
         ('662019015', '3554556.23'),
+
+INSERT INTO `users` (`id`, `nama`, `username`, `password`, `level`) 
+VALUES    (NULL, 'glenhans', 'admin', '12345', 'superadmin'), 
+          (NULL, 'glenhans', 'op1', '12345', 'operator')
 -------------------------------------------
 
 
