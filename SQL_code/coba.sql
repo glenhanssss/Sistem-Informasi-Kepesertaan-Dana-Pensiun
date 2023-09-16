@@ -67,20 +67,6 @@ CREATE TABLE `users` (
 ) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4
 
 -------------------------------------------
-INSERT INTO `peserta`   (`nip`,     `nama`,       `unit_kerja`, `gender`, `status_kawin`, `tanggungan_anak`, `tanggal_lahir`, `tanggal_peserta`, `phdp`)
-  VALUES    ('662019002',   'VINSENSIUS ERIC',  'FSM',      'Pria',   'Kawin',    '2',        '2001-03-09', '2020-10-01',   '4000000.00'),
-            ('662019003',   'ALFIDA TEGAR',   'FKIP',     'Wanita', 'Tidak Kawin',  '0',        '2005-12-14', '2020-08-01',   '2500000.00'),
-            ('662019005',   'WIRA SETYAWAN',  'FEB',      'Pria',   'Kawin',    '0',        '1995-11-06', '2022-03-03',   '3000000.00'),
-            ('662019007',   'GLENHANS',     'FTI',      'Pria',   'Kawin',    '1',        '2001-10-09', '2018-05-01',   '1000000.00'),
-            ('662019008',   'BENITA DWITYA',  'FSM',      'Wanita', 'Kawin',    '2',        '1980-12-15', '2015-01-01',   '3800000.00'),
-            ('662019009',   'DAVID YOGA',   'FKIP',     'Pria',   'Tidak Kawin',  '2',        '1995-06-10', '2010-09-01',   '6550000.00'),
-            ('662019010',   'NUR INTAN',    'FSM',      'Wanita', 'Kawin',    '1',        '2000-04-15', '2015-12-01',   '3255000.00'),
-            ('662019011',   'FEBIANE ALDITA', 'FEB',      'Wanita', 'Tidak Kawin',  '2',        '1980-12-28', '2001-08-01',   '3485250.00'),
-            ('662019012',   'YUMITA CHRISTIN',  'FSM',      'Wanita',   'Tidak Kawin',  '1',        '1975-12-04',   '1990-11-01',     '7505259.86'),
-            ('662019013',   'PUTRI ELIZABETH',  'FKIP',     'WANITA', 'Kawin',    '1',        '2001-03-09', '2022-10-01',   '3850578.45'),
-            ('662019014',   'SHEILA ALFATIHA',  'FSM',      'Wanita', 'Tidak Kawin',  '1',        '1980-08-08', '2003-08-01',   '6700000.53'),
-            ('662019015',   'FEBI SETIVANI',  'FKIP',      'Wanita', 'Tidak Kawin',  '2',        '1988-10-08', '2015-11-01',   '3554556.23'),
-
 INSERT INTO `peserta`   (`nip`,     `nama`,       `unit_kerja`, `gender`, `status_kawin`, `tanggungan_anak`, `tanggal_lahir`, `tanggal_peserta`)
   VALUES    ('662019002',   'VINSENSIUS ERIC',  'FSM',      'Pria',   'Kawin',    '2',        '2001-03-09', '2020-10-01'),
             ('662019003',   'ALFIDA TEGAR',   'FKIP',     'Wanita', 'Tidak Kawin',  '0',        '2005-12-14', '2020-08-01'),
@@ -108,6 +94,8 @@ VALUES  ('662019002', '4000000.00'),
         ('662019013', '3850578.45'),
         ('662019014', '6700000.53'),
         ('662019015', '3554556.23'),
+        ('662019016', '8000000.53'),
+        ('662019018', '4554556.23'),
 
 INSERT INTO `users` (`id`, `nama`, `username`, `password`, `level`) 
 VALUES    (NULL, 'glenhans', 'admin', '12345', 'superadmin'), 
