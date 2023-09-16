@@ -1,5 +1,7 @@
 Halooo.. ini project bikin Aplikasi Web pertama yang saya open public hehe.. walau pake bantuan bootsrap template AdminLTE.io gapapa laa yaa opensource juga hehe
 
+Try this app: https://sisteminformasidanapensiunkepesertaan.000webhostapp.com/
+
 Notes:
 1. Source code file PHP, HTML, CSS, JS, dsb nya ada di folder "app"
 2. Karena Aplikasi nya cuma saya pake di server lokal, jadi buat nyoba aplikasi-nya bisa temen2 ikutin sesuai Manual Book yang udah dibuat ya
